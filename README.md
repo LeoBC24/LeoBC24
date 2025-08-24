@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 I am a student at the beginning of my software development career, passionate about learning new technologies and developing my skills through practical projects. I have a solid understanding of modern web development fundamentals and focus on writing clean, easy-to-read code. I am motivated, a fast learner, and ready to tackle challenges both independently and as part of a team.
